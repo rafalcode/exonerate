@@ -1,6 +1,9 @@
 exonerate
 =========
 
+Fork rationale: merely for extra RF_oriented documentation
+and code refactoring merely for clarification purposes.
+
 A continuation of exonerate, a generic tool for sequence alignment by Guy St.
 C. Slater et al. (http://www.ebi.ac.uk/~guy/exonerate/).
 
